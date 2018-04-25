@@ -1,0 +1,16 @@
+.all{
+    width: 40em;
+}
+
+.block1{
+    float: left;
+    background-color: rgb(233, 125, 37);
+    border-radius: 10%;
+    width: 9em;
+    padding-bottom: 9em;
+    margin: 1em;
+}
+body{
+    Font-size:62.5%
+}
+
